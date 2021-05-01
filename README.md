@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I am Abdurrehman Afridi
 
 ---
-A Web Developer specializing in Python technologies. Professional experience with the technologies listed in the toolbox below.
+A Web Developer specializing in Python technologies. I have Professional experience with the technologies listed in the toolbox below.
 
 I’m also a general doodler with a keen eye for creating engaging UI, bringing products to life.
 
