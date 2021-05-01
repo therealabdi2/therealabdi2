@@ -19,7 +19,9 @@ Out of the office you’ll find me dreaming of soccer, watching anime and pettin
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50">
 
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealabdi2&hide=c&layout=compact&theme=radical)](https://github.com/therealabdi2/github-readme-stats)
 
 
 
@@ -31,7 +33,7 @@ Learn More
 
 ❓ Ask me about Higher Education (University), Tech Startups, EdTech, or anything else!
 
-💬 How to reach me: <a href="https://twitter.com/TheRealAbdi27">Twitter</a> or <a href="https://www.linkedin.com/in/abdurrheman-afridi/">LinkedIn</a>
+💬 How to reach me: <a href="https://twitter.com/TheRealAbdi27" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/abdurrheman-afridi/" target="_blank">LinkedIn</a>
 
 ⚡ Fun facts: I occasionally write short fiction.
 <!--
