@@ -1,13 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I am Abdurrehman Afridi
 
 ---
-A Web Developer specializing in Python technologies. I have Professional experience with the technologies listed in the toolbox below.
+A Web Developer specializing in Python technologies. I have Experience with the technologies listed in the toolbox below.
 
 I’m also a general doodler with a keen eye for creating engaging UI, bringing products to life.
 
-I’ve spent the past 2+ years working across different areas of web development, marketing site pages, to my current role freelancing for different platforms. These days my time is spent researching, designing, prototyping, and coding.
+I’ve spent the past 2+ years working across different areas of web development, building landing site pages, to freelancing on different platforms. These days my time is spent researching, designing, prototyping, and coding.
+Currently available for hire.
 
-Out of the office you’ll find me dreaming of soccer, watching anime and petting all the good dogs.
+Out of the office you’ll find me dreaming of Volleyball, watching anime and petting all the good dogs.
 
 ---
 
