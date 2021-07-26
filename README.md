@@ -1,3 +1,5 @@
+
+ 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I am Abdurrehman Afridi
 
 ---
@@ -29,7 +31,9 @@ Out of the office you’ll find me dreaming of Volleyball, watching anime and pe
 
 
 ---
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=therealabdi2)   
 
+---
 Learn More
 
 ❓ Ask me about Higher Education (University), Tech Startups, EdTech, or anything else!
