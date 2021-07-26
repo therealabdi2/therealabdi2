@@ -36,7 +36,7 @@ Out of the office you’ll find me dreaming of Volleyball, watching anime and pe
 ---
 Learn More
 
-❓ Ask me about Higher Education (University), Tech Startups, EdTech, or anything else!
+❓ Ask me about Higher Education (University), EdTech, or anything else!
 
 💬 How to reach me: <a href="https://twitter.com/TheRealAbdi27" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/abdurrheman-afridi/" target="_blank">LinkedIn</a>
 
