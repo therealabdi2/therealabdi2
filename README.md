@@ -34,7 +34,7 @@ Out of the office you’ll find me dreaming of Volleyball, watching anime and pe
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=therealabdi2)   
 
 ---
-Learn More
+Learn More ...
 
 ❓ Ask me about Higher Education (University), EdTech, or anything else!
 
