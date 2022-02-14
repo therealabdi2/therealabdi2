@@ -5,7 +5,7 @@
 ---
 A Web Developer specializing in Python technologies. I have Experience with the technologies listed in the toolbox below.
 
-I’m also a general doodler with a keen eye for creating engaging UI, bringing products to life.
+I love exploring new trends and creating my own, this is something I do with great passion.
 
 I’ve spent the past 2+ years working across different areas of web development, building landing site pages, to freelancing on different platforms. These days my time is spent researching, designing, prototyping, and coding.
 Currently available for hire.
@@ -36,11 +36,11 @@ Out of the office you’ll find me dreaming of Volleyball, watching anime and pe
 ---
 Learn More ...
 
-❓ Ask me about Higher Education (University), EdTech, or anything else!
+❓ Ask me about my work or anything else!
 
 💬 How to reach me: <a href="https://twitter.com/TheRealAbdi27" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/abdurrheman-afridi/" target="_blank">LinkedIn</a>
 
-⚡ Fun facts: I occasionally write short fiction.
+⚡ Fun facts: Voyager 1 has been travelling >30,000 mph for 43 years and it's only 20 light hours away
 <!--
 **therealabdi2/therealabdi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
