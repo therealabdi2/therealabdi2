@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/therealabdi2/readme_assets/main/banner/Github_banner%20(1).png" height="500px" width="100%">
  
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I am Abdurrehman Afridi
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
 ---
 A Web Developer specializing in Python technologies. I have Experience with the technologies listed in the toolbox below.
