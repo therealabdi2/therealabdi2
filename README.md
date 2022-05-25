@@ -41,17 +41,86 @@ Learn More ...
 💬 How to reach me: <a href="https://twitter.com/TheRealAbdi27" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/abdurrheman-afridi/" target="_blank">LinkedIn</a>
 
 ⚡ Fun facts: Voyager 1 has been travelling >30,000 mph for 43 years and it's only 20 light hours away
-<!--
-**therealabdi2/therealabdi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Program Office Aid</h2>
+				<div align="center" >  
+					<a href='https://programofficeaid.herokuapp.com/'>
+						<img src="https://github.com/therealabdi2/readme_assets/blob/main/poa/POA_gif.gif?raw=true" alt="Program Office Aid" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://programofficeaid.herokuapp.com/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p><strong>Python, Django, Postgresql, Bootstrap</strong> - Quality of life platform for students and staff of IIUI</p>
+				</div>
+			</td>
+				<td width="50%">
+				<h3 align="center" color="white">Cartsnarc</h2>
+				<div align="center" >  
+					<a href='https://cartsnarc.herokuapp.com/'>
+						<img src="https://github.com/therealabdi2/readme_assets/blob/main/cartsnarc/cartsnarc_gif.gif?raw=true" alt="Cartsnarc" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/therealabdi2/cartsnarc-django" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://cartsnarc.herokuapp.com/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					 <p><strong>Python, Django, Postgresql, Bootstrap</strong> - A full fledge ecommerce website in django, installed with all the modern ecommerce functionalities!</p>
+     </td>
+				</div>
+	<tr>
+		<td width="50%">
+			<h3 align="center" color="white">Afridi Writes</h2>
+			<div align="center" >  
+				<a href='https://afridiwrites.herokuapp.com/'>
+					<img src="https://github.com/therealabdi2/readme_assets/blob/main/afridiwrites/afridiwrites_gif.gif?raw=true" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/therealabdi2/Abdi-Blog" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://afridiwrites.herokuapp.com/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p><strong>Python, Flask, Postgresql, Bootstrap</strong> - Developed a blog web app to share random musings related to various topics.</p>
+			</div>
+		</td>
+		<td width="50%">
+			<h3 align="center" color="white">Pig Game</h2>
+			<div align="center" >  
+				<a href='https://therealabdi2.github.io/BudgetApp/'>
+					<img src="https://github.com/therealabdi2/readme_assets/blob/main/pigGame/pigGame.gif?raw=true" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/therealabdi2/BudgetApp" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://therealabdi2.github.io/BudgetApp/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - A simple budget calculator website as my first attempt to work with OOP.</p>
+			</div>	
+		</td>
+	</table>
+</div>
+<br />
+<br />
