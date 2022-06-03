@@ -102,22 +102,22 @@ Learn More ...
 			</div>
 		</td>
 		<td width="50%">
-			<h3 align="center" color="white">Pig Game</h2>
+			<h3 align="center" color="white">Personal website</h2>
 			<div align="center" >  
 				<a href='https://therealabdi2.github.io/BudgetApp/'>
-					<img src="https://github.com/therealabdi2/readme_assets/blob/main/pigGame/pigGame.gif?raw=true" height="100%" />
+					<img src="https://github.com/therealabdi2/readme_assets/blob/main/mysite/mysite.gif?raw=true" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/therealabdi2/BudgetApp" target="_blank">
+					<a href="https://github.com/therealabdi2/icreate" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://therealabdi2.github.io/BudgetApp/" target="_blank">
+					<a href="https://therealabdi2.github.io/icreate/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - A simple budget calculator website as my first attempt to work with OOP.</p>
+				<p><strong>HTML5, CSS3, JavaScript</strong> - Personal website to showcase my portfollio.</p>
 			</div>	
 		</td>
 	</table>
