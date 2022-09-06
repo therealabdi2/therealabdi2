@@ -9,7 +9,7 @@ I love exploring new trends and creating my own, this is something I do with gre
 
 I’ve worked across different areas of web development, building landing site pages, to freelancing on different platforms. These days my time is spent researching, designing and coding.
 
-Out of the office you’ll find me dreaming of Volleyball, watching anime and petting all the good dogs.
+Out of the office you’ll find me dreaming of Volleyball and petting all the good dogs.
 
 ---
 
