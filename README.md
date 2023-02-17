@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/therealabdi2/readme_assets/main/banner/Github_banner%20(1).png" height="500px" width="100%">
- 
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
 ---
