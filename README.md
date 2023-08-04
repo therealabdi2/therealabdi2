@@ -4,9 +4,7 @@
 ---
 A Web Developer specializing in Python technologies. I have Experience with the technologies listed in the toolbox below.
 
-I love exploring new trends and creating my own, this is something I do with great passion.
-
-I’ve worked across different areas of web development, building landing site pages, to freelancing on different platforms. These days my time is spent researching, designing and coding.
+I am currently working across different areas of web development, including frontend and backend. These days my time is spent researching, designing and coding.
 
 Out of the office you’ll find me dreaming of Volleyball and petting all the good dogs.
 
