@@ -35,7 +35,3 @@ Learn More ...
 ❓ Ask me about my work or anything else!
 
 💬 How to reach me: <a href="https://twitter.com/TheRealAbdi27" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/abdurrheman-afridi/" target="_blank">LinkedIn</a>
-
-⚡ Fun facts: Voyager 1 has been travelling >30,000 mph for 43 years and it's only 20 light hours away
-
-
