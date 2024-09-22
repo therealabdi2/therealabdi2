@@ -4,9 +4,7 @@
 ---
 A Web Developer specializing in Python technologies. I have experience with the technologies listed in the toolbox below.
 
-I am currently working across different areas of web development, including frontend and backend. These days my time is spent researching, designing and coding.
-
-Out of the office you’ll find me dreaming of Volleyball and petting all the good dogs (and cats).
+I am currently working across different areas of web development, including frontend and backend.
 
 ---
 
