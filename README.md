@@ -25,9 +25,7 @@ I am currently working across different areas of web development, including fron
 
 
 ---
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=therealabdi2)   
 
----
 Learn More ...
 
 ❓ Ask me about my work or anything else!
